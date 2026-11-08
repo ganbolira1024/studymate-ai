@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "StudyMate AI",
+    "slug": "studymate-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "studymate",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "mn.ufe.studymate",
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ]
+  }
+}
